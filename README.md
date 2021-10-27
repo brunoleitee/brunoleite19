@@ -1,15 +1,18 @@
 ### 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Leite</h1>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=brunoleite19&show_icons=true&theme=vision-friendly-dark" alt="brunoleite19 stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoleite19&layout=compact&theme=vision-friendly-dark" alt="brunoleite19's most languages"/>
+</p>
+
 <!--
 **brunoleite19/brunoleite19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="brunoleite19's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="brunoleite19's most languages"/>
-</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
